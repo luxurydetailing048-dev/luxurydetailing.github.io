@@ -115,3 +115,16 @@ max-width:400px;
 width:500px;
 border-radius:10px;
 }
+<section class="hero">
+
+<div class="hero-text">
+<h2>Dobrodošli na naš site</h2>
+<p>Poglejte naše storitve</p>
+<a href="store.html"><button>Idi v Store</button></a>
+</div>
+
+<div class="hero-image">
+<img src="bmw.jpg" alt="BMW">
+</div>
+
+</section>
